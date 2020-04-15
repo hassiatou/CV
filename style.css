@@ -1,0 +1,66 @@
+p
+{
+    color: black
+}
+h1
+{
+    color: black
+}
+li
+{
+    color: black
+}
+body
+{
+    background-color: floralwhite ;
+ }
+ h1
+ {
+     background-position: url(Curriculum Vitae) fixed ,no-repeat ;text-align:center;
+ }
+ h2
+ {
+    color: black;
+    border-block:    blue;
+ }
+ 
+ 
+ h3
+ {
+     color: black;
+ }
+ h4
+ {
+     text-align: center;
+ }
+h4
+{
+    color: black
+}
+.hassiat
+{
+    border: 5px rgb(17, 11, 1) solid;
+    border-radius: 290px 280px;
+    
+}
+h1
+{
+    box-shadow: 5px 5px 5px blue
+    border: 300%
+}
+
+.hassia
+{
+    display: flex;
+    background-color: rgb(94, 184, 226);
+
+}
+.class total
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+h2
+{
+    border-bottom: 5px rgb(94, 184, 226) solid;
+}
